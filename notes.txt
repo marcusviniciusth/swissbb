@@ -1,2 +1,91 @@
         <!-- ================= /////////////  TEXT ///////////// ================= -->
         /* ================= /////////////  TEXT ///////////// ================= */
+
+        <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113502586679599184/latest.png')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/GB-United-Kingdom-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">D-LOW</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://images-ext-2.discordapp.net/external/pG2DKiwcp86eId365UFiINfUnGyU1sKu0rDZquI9zTs/%3Fcb%3D20200624015609/https/static.wikia.nocookie.net/beatbox/images/0/0a/Colaps_Grand_Beatbox_Battle_2019.jpg/revision/latest?width=720&height=480')">
+                    <div class="country-name-bg">
+                        <img class="country-icon" src="https://media.discordapp.net/attachments/1028590116895215636/1113581672466755674/FR-France-Flag.png?width=615&height=615" alt="Country" />
+                    </div>
+                    <div class="character-name-bg">
+                        <span class="character-name">COLAPS</span>
+                    </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113573007101796353/latest.png?width=720&height=480')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/US-United-States-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">VOCODAH</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113573174819434496/AGIKgqO_1ZAfEkQW3ag4N5KqBuV8VrcNv78T0Hjc-4081Qs900-c-k-c0x00ffffff-no-rj.png?width=615&height=615')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/AU-Australia-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">CODFISH</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113573525517766657/latest.png?width=720&height=480')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/US-United-States-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">NAPOM</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113575369962946670/latest.png?width=612&height=615')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/US-United-States-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">KING INERTIA</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113575650440269954/2021.png?width=410&height=615')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/US-United-States-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">HerShe</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113575808460660776/U4akESQXeQ_R8je8Bzo2j_2pYThl63lBRuZgigg5A84fWBcI3sBkz0MsCFT6XkcD8wvN0foUs900-c-k-c0x00ffffff-no-rj.png?width=615&height=615')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/CA-Canada-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">DEN</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://pbs.twimg.com/media/Dci2dE-W0AAuXCh.jpg:large')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://icons.iconarchive.com/icons/wikipedia/flags/256/BE-Belgium-Flag-icon.png" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">FOOTBOXG</span>
+                </div>
+            </div>
+            
+            <div class="cards-container" style="background-image: url('https://media.discordapp.net/attachments/1028590116895215636/1113579013496119317/river-beatbox-4-965c5.png?width=720&height=477')">
+                <div class="country-name-bg">
+                    <img class="country-icon" src="https://media.discordapp.net/attachments/1028590116895215636/1113581672466755674/FR-France-Flag.png?width=615&height=615" alt="Country" />
+                </div>
+                <div class="character-name-bg">
+                    <span class="character-name">RIVER</span>
+                </div>
